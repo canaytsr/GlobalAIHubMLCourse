@@ -22,3 +22,4 @@ Here is my homeworks, final project and certificate for the course that've been 
 Some python libraries
 
 # **Certification**
+![](img/certificate.png)
